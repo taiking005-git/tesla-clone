@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "title": "Model-S",
+            "CTA": "Schedule a Demo Drive",
+            "img": "/img/Model-S.jpg",
+            "btn-title": {
+                "p": "Custom Order",
+                "s": "View Inventory"
+            }
+        },
+        {
+            "title": "Model-3",
+            "CTA": "Leasing starting at $349/mo",
+            "img": "/img/Model-3.jpg",
+            "btn-title": {
+                "p": "Custom Order",
+                "s": "View Inventory"
+            }
+        },
+        {
+            "title": "Model-Y",
+            "CTA": "",
+            "img": "img/Model-Y.jpg",
+            "btn-title": {
+                "p": "Custom Order",
+                "s": "Demo Drive"
+            }
+        },
+        {
+            "title": "Model-X",
+            "CTA": "Schedule a Demo Drive",
+            "img": "img/Model-X.jpg",
+            "btn-title": {
+                "p": "Custom Order",
+                "s": "Demo Drive"
+            }
+        },
+        {
+            "title": "Solar Roof",
+            "CTA": "",
+            "img": "img/SolarRoof.webp",
+            "btn-title": {
+                "p": "Order Now",
+                "s": "Learn More"
+            }
+        },
+        {
+            "title": "Assessories",
+            "CTA": "",
+            "img": "img/assessories.jpg",
+            "btn-title": {
+                "p": "Shop Now"
+            }
+        }
+    ]
+}
